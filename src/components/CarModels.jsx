@@ -1,5 +1,5 @@
 import React from "react";
-import Star from "../images/cars-big/star.svg";
+import Star from "../images/cars-big/Star.svg";
 import {
   IconCar,
   IconPhone,
