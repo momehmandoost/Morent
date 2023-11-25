@@ -449,6 +449,9 @@ body {
   .book-content__box {
     padding: 4rem 2.5rem 5rem 2.5rem;
   }
+  .book-content__box {
+    margin-top: -100px;
+  }
 }
 
 .book-content__box h2 {
@@ -1325,6 +1328,7 @@ body {
   .text-container__left {
     align-items: center;
     text-align: center;
+    display: none;
   }
 }
 

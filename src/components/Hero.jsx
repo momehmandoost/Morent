@@ -51,10 +51,12 @@ function Hero() {
                   className="hero-content__text__btns__book-ride"
                   to="/"
                 >
-                  Book Ride &nbsp; <IconCircleCheck />
+                  Book Ride&nbsp;
+                  <IconCircleCheck />
                 </Link>
                 <Link className="hero-content__text__btns__learn-more" to="/">
-                  Learn More &nbsp; <IconChevronRight />
+                  Learn More&nbsp;
+                  <IconChevronRight />
                 </Link>
               </div>
             </div>
