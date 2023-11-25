@@ -2465,7 +2465,7 @@ footer {
   background-color: #20bfb6;
   padding: 1.8rem 3rem;
   border-radius: 0.3rem;
-  box-shadow: 0 10px 15px 0 rgba(255, 83, 48, 0.35);
+  box-shadow: 0 10px 15px 0 rgba(86, 48, 255, 0.35);
   transition: all 0.3s;
   border: 2px solid #20bfb6;
   color: white;
@@ -2475,8 +2475,8 @@ footer {
 }
 
 .contact-div__form form button:hover {
-  box-shadow: 0 10px 15px 0 rgba(255, 83, 48, 0.6);
-  background-color: #fa4226;
+  box-shadow: 0 10px 15px 0 rgba(82, 48, 255, 0.6);
+  background-color: #007b77;
 }
 
 /*# sourceMappingURL=styles.css.map */
