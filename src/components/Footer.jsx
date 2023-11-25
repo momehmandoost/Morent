@@ -1,5 +1,5 @@
 import { IconMail, IconPhoneCall } from "@tabler/icons-react";
-import Logo from "../images/logo/logo.svg";
+import Logo from "../images/logo/Logo.svg";
 
 function Footer() {
   return (
