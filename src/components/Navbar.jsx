@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import Logo from "../images/logo/logo.svg";
+import Logo from "../images/logo/Logo.svg";
 import { useState } from "react";
 import { IconMenu2, IconX } from "@tabler/icons-react";
 
